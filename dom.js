@@ -22,4 +22,8 @@ document.getElementById('add-friend').addEventListener('click',function(){
 
 function addPadding(){
     document.getElementById('friends').style.padding ="10px"
-}
+};
+
+/* document.getElementById('color-name').addEventListener('click',event =>{
+    console.log(event.target.style.color = "red");
+}) */
